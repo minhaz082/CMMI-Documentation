@@ -1,0 +1,13 @@
+Interface design deals with the process of developing a method for two (or more) modules in a system to connect and communicate. These modules can apply to hardware, software or the interface between a user and a machine.[1][2][3] An example of a user interface could include a GUI, a control panel for a nuclear power plant,[4] or even the cockpit of an aircraft.
+
+
+
+requirement collection form
+ srs
+  design document
+  requirement matrix
+     coding with standard procedure and convention
+     unit test and code review
+
+
+
